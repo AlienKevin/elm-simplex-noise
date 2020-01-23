@@ -1,4 +1,4 @@
-module Noise.SimplexNoise exposing
+module Noise exposing
   ( permutationTable, PermutationTable
   , noise4d, noise3d, noise2d
   , noise1d
